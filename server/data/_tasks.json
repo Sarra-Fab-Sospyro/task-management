@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Scrivere documentazione progetto",
+    "description": "Creare README e spiegazioni tecniche.",
+    "dueDate": "2025-06-01",
+    "status": "in progress",
+    "workerId": 1
+  },
+  {
+    "id": 2,
+    "title": "Configurare ambiente Angular",
+    "description": "Impostare Angular CLI e struttura base.",
+    "dueDate": "2025-05-21",
+    "status": "complete",
+    "workerId": 2
+  },
+  {
+    "id": 3,
+    "title": "Creare componente task-list",
+    "description": "Visualizzare l'elenco dei task.",
+    "dueDate": "2025-05-25",
+    "status": "in progress",
+    "workerId": 3
+  },
+  {
+    "id": 4,
+    "title": "Implementare task service",
+    "description": "Gestione dei dati tramite service.",
+    "dueDate": "2025-05-22",
+    "status": "not started",
+    "workerId": 4
+  },
+  {
+    "id": 5,
+    "title": "Test unitari su task-list",
+    "description": "Scrivere test usando Jasmine.",
+    "dueDate": "2025-05-30",
+    "status": "not started",
+    "workerId": 5
+  },
+  {
+    "id": 6,
+    "title": "Creare filtro per stato",
+    "description": "Filtrare i task per 'in progress', 'complete', ecc.",
+    "dueDate": "2025-06-02",
+    "status": "in progress",
+    "workerId": 6
+  },
+  {
+    "id": 7,
+    "title": "Design responsive",
+    "description": "Ottimizzare per mobile e tablet con Bootstrap.",
+    "dueDate": "2025-06-03",
+    "status": "not started",
+    "workerId": 7
+  },
+  {
+    "id": 8,
+    "title": "Form per nuovo task",
+    "description": "Creare il componente con reactive forms.",
+    "dueDate": "2025-05-28",
+    "status": "in progress",
+    "workerId": 8
+  },
+  {
+    "id": 9,
+    "title": "Routing tra componenti",
+    "description": "Configurare Angular Router.",
+    "dueDate": "2025-05-29",
+    "status": "complete",
+    "workerId": 9
+  },
+  {
+    "id": 10,
+    "title": "Search per nome task",
+    "description": "Barra di ricerca per nome task.",
+    "dueDate": "2025-06-04",
+    "status": "not started",
+    "workerId": 10
+  },
+  {
+    "id": 11,
+    "title": "Validazione form",
+    "description": "Aggiungere validazioni a campi obbligatori.",
+    "dueDate": "2025-06-01",
+    "status": "in progress",
+    "workerId": 1
+  },
+  {
+    "id": 12,
+    "title": "Formattare data e ora",
+    "description": "Utilizzare pipe per data formattata.",
+    "dueDate": "2025-06-02",
+    "status": "complete",
+    "workerId": 2
+  },
+  {
+    "id": 13,
+    "title": "Navigazione tramite menu",
+    "description": "Inserire barra di navigazione.",
+    "dueDate": "2025-06-05",
+    "status": "in progress",
+    "workerId": 3
+  },
+  {
+    "id": 14,
+    "title": "Mock service ExpressJS",
+    "description": "Servire JSON tramite API GET.",
+    "dueDate": "2025-05-21",
+    "status": "complete",
+    "workerId": 4
+  },
+  {
+    "id": 15,
+    "title": "Icone stato task",
+    "description": "Icone per 'done', 'in progress', ecc.",
+    "dueDate": "2025-05-23",
+    "status": "in progress",
+    "workerId": 5
+  },
+  {
+    "id": 16,
+    "title": "Testing Angular Service",
+    "description": "Test su TaskService con HttpClientTestingModule.",
+    "dueDate": "2025-06-06",
+    "status": "not started",
+    "workerId": 6
+  },
+  {
+    "id": 17,
+    "title": "Aggiungere commenti codice",
+    "description": "Scrivere JSDoc per componenti.",
+    "dueDate": "2025-06-07",
+    "status": "in progress",
+    "workerId": 7
+  },
+  {
+    "id": 18,
+    "title": "Filtro per assegnatario",
+    "description": "Visualizzare task per persona.",
+    "dueDate": "2025-06-08",
+    "status": "not started",
+    "workerId": 8
+  },
+  {
+    "id": 19,
+    "title": "Paginate task list",
+    "description": "Mostrare solo 5 task per pagina.",
+    "dueDate": "2025-06-09",
+    "status": "in progress",
+    "workerId": 9
+  },
+  {
+    "id": 20,
+    "title": "Deploy mock server",
+    "description": "Deploy su Vercel o simili.",
+    "dueDate": "2025-06-10",
+    "status": "complete",
+    "workerId": 10
+  }
+]

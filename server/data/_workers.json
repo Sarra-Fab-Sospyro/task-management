@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Anna Rossi",
+    "email": "anna.rossi@example.com",
+    "role": "Frontend Developer"
+  },
+  {
+    "id": 2,
+    "name": "Luca Bianchi",
+    "email": "luca.bianchi@example.com",
+    "role": "Backend Developer"
+  },
+  {
+    "id": 3,
+    "name": "Marco Verdi",
+    "email": "marco.verdi@example.com",
+    "role": "Fullstack Developer"
+  },
+  {
+    "id": 4,
+    "name": "Elena Neri",
+    "email": "elena.neri@example.com",
+    "role": "UI/UX Designer"
+  },
+  {
+    "id": 5,
+    "name": "Giorgio Russo",
+    "email": "giorgio.russo@example.com",
+    "role": "Project Manager"
+  },
+  {
+    "id": 6,
+    "name": "Chiara Gallo",
+    "email": "chiara.gallo@example.com",
+    "role": "Tester"
+  },
+  {
+    "id": 7,
+    "name": "Alessio Conti",
+    "email": "alessio.conti@example.com",
+    "role": "DevOps Engineer"
+  },
+  {
+    "id": 8,
+    "name": "Marta Villa",
+    "email": "marta.villa@example.com",
+    "role": "Product Owner"
+  },
+  {
+    "id": 9,
+    "name": "Daniele Costa",
+    "email": "daniele.costa@example.com",
+    "role": "Scrum Master"
+  },
+  {
+    "id": 10,
+    "name": "Francesca De Luca",
+    "email": "francesca.deluca@example.com",
+    "role": "Support Engineer"
+  }
+]
